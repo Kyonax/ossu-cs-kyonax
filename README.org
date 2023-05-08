@@ -7,10 +7,17 @@
 #+KEYWORDS: ossu cs, ossu program, ossu student
 #+LANGUAGE: en
 
+- OSSU Definition ::
+  OSSU is a *Open Source Society University* is a registered 501(c)(3) non-profit with a mission of empowering learners to master college curricula through free resources.
+
+  The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+
+  */More Information on: https://github.com/ossu/computer-science/*
+
 * Table of Content :toc:
 - [[#computer-science-ossu-program---student-words][Computer Science OSSU Program - Student Words]]
 
 * Computer Science OSSU Program - Student Words
 The Mission of this Repo is to save the progress that Kyonax /Cristian Moreno/ will have being in the (OSSU of Computer Science)[https://github.com/ossu/computer-science] program, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
 
-- *_Start Day: 2023/MAY/08_* | Starting the Intro CS Stage
+- *Start Day: 2023/MAY/08* | Starting the Intro CS Stage
