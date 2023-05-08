@@ -12,9 +12,7 @@
   OSSU is a *Open Source Society University* is a registered 501(c)(3) non-profit with a mission of empowering learners to master college curricula through free resources.
 
 - OSSU Computer Science Information ::
-  *The OSSU curriculum* is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
-
-  *More Information on: https://github.com/ossu/computer-science*
+  *The OSSU curriculum* is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.  *More Information on: [[https://github.com/ossu/computer-science][OSSU Computer Science Github]]*
 
 * Table of Content :toc:
 - [[#student-words][Student Words]]
@@ -38,8 +36,8 @@ I'll divide the study program on Stages of *20h/week* Courses, the idea is to fo
 
 *** 1st Stage Documentation & Projects
 This repo will have all my notes, advancements, and projects related to the *Stages* and the *Courses* of this OSSU Study Plan. Starting with these:
-- *Python for Everybody*: https://github.com/Kyonax/ossu-cs-kyonax/
-- *Introduction to Computer Science & Programming using Python*: https://github.com/Kyonax/ossu-cs-kyonax/
+- *[[https://github.com/Kyonax/ossu-cs-kyonax/blob/main/1st%20Stage%20-%20Intro%20CS/Python%20for%20Everybody/Python_for_Everybody.org][Python for Everybody - Documentation]]*
+- *[[https://github.com/Kyonax/ossu-cs-kyonax/blob/main/1st%20Stage%20-%20Intro%20CS/Introduction%20CS%20%26%20Programming%20using%20Python/Introduction_CS_PY.org][Introduction to Computer Science & Programming using Python - Documentation]]*
 
 *** TODO Intro CS Progress [0%]
 - [ ] *Python for Everybody - Course*
