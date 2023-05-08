@@ -19,6 +19,6 @@
 - [[#student-words][Student Words]]
 
 * Student Words
-The Mission of this Repo is to save the progress that */Cristian Moreno/* aka */Kyonax/* will have being in the *OSSU of Computer Science program*, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
+The Mission of this Repo is to save the progress that *Cristian Moreno* aka *Kyonax* will have being in the *OSSU of Computer Science program*, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
 
 - *Start Day: 2023/MAY/08* | Starting the Intro CS Stage
