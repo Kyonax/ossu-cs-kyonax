@@ -3,6 +3,6 @@
 
 
 * Computer Science OSSU Program
-The Mission of this Repo is to save the progress that Kyonax (Cristian Moreno) will have being in the [OSSU of Computer Science](https://github.com/ossu/computer-science) program, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
+The Mission of this Repo is to save the progress that Kyonax (Cristian Moreno) will have being in the (OSSU of Computer Science)[https://github.com/ossu/computer-science] program, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
 
 - **Start Day: 2023/MAY/08** | Starting the Intro CS Stage
