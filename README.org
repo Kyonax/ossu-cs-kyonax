@@ -28,8 +28,11 @@ The Mission of this Repo is to save the progress that *Cristian Moreno* aka *Kyo
 I'll divide the study program on Stages of *20h/week* Courses, the idea is to follow all the instructions from the OSSU Repo and put them into practice, the first stage of this *OSSU CS Program* is the *1st Stage - Intro to Computer Science*.
 
 ** 1st Stage - Intro CS
-- Python for Everybody | Intro CS | 10 Weeks | 10h/week | https://www.py4e.com/lessons
-- Introduction to Computer Science & Programming using Python | Intro CS | 9 Weeks | 15h/week | https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10 | Requirements: https://www.khanacademy.org/math/algebra-home
+
+| Course Name                                                 | Stage                | Duration | Effort   | Requierements                                                            | Link Courses                                  |
+|-------------------------------------------------------------+----------------------+----------+----------+--------------------------------------------------------------------------+-----------------------------------------------|
+| Python for Everybody                                        | 1st Stage - Intro CS | 10 Weeks | 10h/week | *none*                                                                   | https://www.py4e.com/lessons                  |
+| Introduction to Computer Science & Programming using Python | 1st Stage - Intro CS | 9 Weeks  | 15h/week | https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10 | https://www.khanacademy.org/math/algebra-home |
 
 *The study plan for this Stage has a constancy of *25h/week* of Study - with the Goal of Finalizing on 2023/07/29
 
