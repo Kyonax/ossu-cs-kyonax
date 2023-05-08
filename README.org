@@ -2,6 +2,7 @@
 #+AUTHOR: Kyonax - Cristian Moreno
 #+EMAIL: kyonax25@gmail.com
 #+OPTIONS: toc:2
+#+DATE: [2023-05-07 Sun 22:59]
 
 #+DESCRIPTION: Kyonax repo for the learnings and Developments of the OSSU Computer Science program - College Basics
 #+KEYWORDS: ossu cs, ossu program, ossu student
@@ -17,8 +18,27 @@
 
 * Table of Content :toc:
 - [[#student-words][Student Words]]
+  - [[#1st-stage---intro-cs][1st Stage - Intro CS]]
 
 * Student Words
 The Mission of this Repo is to save the progress that *Cristian Moreno* aka *Kyonax* will have being in the *OSSU of Computer Science program*, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
 
 - *Start Day: 2023/MAY/08* | Starting the Intro CS Stage
+
+I'll divide the study program on Stages of *20h/week* Courses, the idea is to follow all the instructions from the OSSU Repo and put them into practice, the first stage of this *OSSU CS Program* is the *1st Stage - Intro to Computer Science*.
+
+** 1st Stage - Intro CS
+- Python for Everybody | Intro CS | 10 Weeks | 10h/week | https://www.py4e.com/lessons
+- Introduction to Computer Science & Programming using Python | Intro CS | 9 Weeks | 15h/week | https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10 | Requirements: https://www.khanacademy.org/math/algebra-home
+
+*The study plan for this Stage has a constancy of *25h/week* of Study - with the Goal of Finalizing on 2023/07/29
+
+*** 1st Stage Documentation & Projects
+This repo will have all my notes, advancements, and projects related to the *Stages* and the *Courses* of this OSSU Study Plan. Starting with these:
+- *Python for Everybody*: https://github.com/Kyonax/ossu-cs-kyonax/
+- *Introduction to Computer Science & Programming using Python*: https://github.com/Kyonax/ossu-cs-kyonax/
+
+*** TODO Intro CS Progress [0%]
+- [ ] *Python for Everybody - Course*
+- [ ] *High School Algebra - Requirement*
+- [ ] *Introduction to Computer Science & Programming using Python - Course*
