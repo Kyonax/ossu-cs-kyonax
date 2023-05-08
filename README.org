@@ -1,8 +1,16 @@
-#+title: README
-#+subtitle: README for the OSSU CS Repo
+#+TITLE: Computer Sience REPO - OSSU CS Program
+#+AUTHOR: Kyonax - Cristian Moreno
+#+EMAIL: kyonax25@gmail.com
+#+OPTIONS: toc:2
 
+#+DESCRIPTION: Kyonax repo for the learnings and Developments of the OSSU Computer Science program - College Basics
+#+KEYWORDS: ossu cs, ossu program, ossu student
+#+LANGUAGE: en
 
-* Computer Science OSSU Program
-The Mission of this Repo is to save the progress that Kyonax (Cristian Moreno) will have being in the (OSSU of Computer Science)[https://github.com/ossu/computer-science] program, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
+* Table of Content :toc:
+- [[#computer-science-ossu-program---student-words][Computer Science OSSU Program - Student Words]]
 
-- **Start Day: 2023/MAY/08** | Starting the Intro CS Stage
+* Computer Science OSSU Program - Student Words
+The Mission of this Repo is to save the progress that Kyonax /Cristian Moreno/ will have being in the (OSSU of Computer Science)[https://github.com/ossu/computer-science] program, to learn the basics to start the enrollment into a College and Study a Computer Science Degree.
+
+- *_Start Day: 2023/MAY/08_* | Starting the Intro CS Stage
